@@ -108,3 +108,10 @@ Reusable UI components
 Full error handling
 
 
+<img width="1903" height="612" alt="image" src="https://github.com/user-attachments/assets/ce6a6510-e824-4c8c-b829-6fc24158ef74" />
+<img width="1887" height="955" alt="image" src="https://github.com/user-attachments/assets/9c529024-9930-4bd8-abb0-47b09f7657cc" />
+<img width="1906" height="570" alt="image" src="https://github.com/user-attachments/assets/ec486a07-b610-43eb-a576-7bda3e5ddef7" />
+<img width="1898" height="724" alt="image" src="https://github.com/user-attachments/assets/1e7931fd-805e-445b-a435-36bb8652323c" />
+
+
+
