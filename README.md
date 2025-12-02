@@ -42,7 +42,7 @@ src/
 Setup & Installation
 1. Clone the Repository
 git clone https://github.com/aniket-4950/task-manager-react.git
-cd <task-manager-react>
+cd task-manager-react
 
 2. Install Dependencies
 npm install
