@@ -1,4 +1,4 @@
-#Task Manager Application (React.js)
+Task Manager Application (React.js)
 
 A modern React-based implementation of the AngularJS Developer Assignment
 
